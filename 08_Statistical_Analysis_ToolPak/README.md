@@ -14,26 +14,35 @@ This project's objective was to use Excel's robust **Analysis ToolPak** to perfo
 This project showcases proficiency in the core statistical functions of the Excel Analysis ToolPak:
 
 *   **Descriptive Statistics:** Generated a full statistical summary (Mean, Median, Standard Deviation, etc.) to get a quick and thorough understanding of the dataset.
-  ![Descriptive Statistics Summary](descriptive_Statistics.png)
+  ![Descriptive Statistics Process](descriptive_Statistics.png)
+![Descriptive Statistics Summary](descriptive_analysis_result.png)
 *   **Data Visualization:** Created a **Histogram** to visualize the frequency distribution of sales data.
-   ![Histogram Summary](histogram.png)
+   ![Histogram Making Process](histogram.png)
+![Histogram Summary](histogram_results.png)
 *   **Hypothesis Testing:**
     *   **ANOVA:** Performed an Analysis of Variance to test if there was a statistically significant difference between the performance of three different marketing campaigns.
       ![ANOVA Process](anova-single_factor.png)
+![ANOVA Results](anova_results.png)
     *   **t-Test:** Conducted a t-Test to perform a direct, head-to-head comparison between two specific campaigns.
       ![t-Test:Two Sample Assuming Unequal Variances Process](t-test(unequal_variances).png)
+      ![t-Test:Two Sample Assuming Unequal Variances Result](t-test_result.png)
     *   **F-Test:** Used an F-Test to compare the variance (consistency) of sales results between two campaigns.
       ![F-Test: Two Sample for Variances Process](F-test.png)
+       ![F-Test: Two Sample for Variances Result](F-test_result.png)
 *   **Time-Series Forecasting:**
     *   **Moving Average:** Calculated a moving average to smooth out daily fluctuations and identify the underlying sales trend.
       ![Moving Average Process](moving_average.png)
+      ![Moving Average Result](moving_average_results.png)
     *   **Exponential Smoothing:** Applied exponential smoothing as an alternative forecasting method that gives more weight to recent data.
        ![Exponential Smoothing Process](exponential_smoothing.png)
+       ![Exponential Smoothing Result](exponential_smoothing_results.png)
 *   **Predictive Modeling:**
     *   **Correlation:** Calculated the correlation coefficient to measure the strength and direction of the linear relationship between advertising spend and sales.
        ![Correlation Process](correlation.png)
+       ![Correlation Result](correlation_result.png)
     *   **Linear Regression:** Built a simple linear regression model to predict future sales based on advertising spend, and evaluated the model's strength using key metrics like **R-Square** and **Significance F**.
        ![Linear Regression Process](Regression.png)
+       ![Linear Regression Result](regression_result.png)
 
 ---
 
