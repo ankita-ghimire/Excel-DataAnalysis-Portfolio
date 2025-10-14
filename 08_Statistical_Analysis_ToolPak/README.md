@@ -1,4 +1,4 @@
-<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/af2509b1-919e-468e-9dbf-a888f9992457" /># Excel Project: Statistical Analysis with the Analysis ToolPak
+Excel Project: Statistical Analysis with the Analysis ToolPak
 
 **Project Status:** Completed
 
