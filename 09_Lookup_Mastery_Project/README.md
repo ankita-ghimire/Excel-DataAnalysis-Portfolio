@@ -24,7 +24,7 @@ This project is a focused demonstration of the functions that form the backbone 
     *   **`VLOOKUP` (Classic Method):** Used the traditional `VLOOKUP` function to retrieve `Country` data, proving an understanding of legacy methods and their specific syntax (e.g., column index numbers, exact match flag).
       ![VLOOKUP Formula](VLOOKUP_formula.png)
     *   **`INDEX/MATCH` (Advanced/Flexible Method):** Used the powerful `INDEX/MATCH` combination to look up `UnitPrice`. This demonstrates a deeper, more advanced knowledge of Excel's lookup capabilities, prized for its flexibility and performance.
-      ![INDEX/MATCH Formula](INDEX:MATCH_formula.png)
+      ![INDEX-MATCH Formula](INDEX-MATCH_formula.png)
 
 *   **Calculations with Structured References:** Performed final calculations (`TotalSale`) using modern, readable **structured references** (e.g., `=[@Quantity]*[@UnitPrice]`), which is a feature of Excel Tables.
 
