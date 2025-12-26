@@ -1,5 +1,7 @@
 # Excel Project: Interactive Sales Dashboard
 
+![Final Dashboard](dashboard_final.png)
+
 ## Project Objective
 
 The objective of this project was to transform a raw sales dataset into a fully interactive and insightful dashboard. This project showcases a comprehensive mastery of data visualization in Excel, from initial data summarization with PivotTables to the creation of advanced, user-friendly reports with slicers. The goal was to build a tool that allows stakeholders to easily filter and analyze sales performance across different regions and product categories.
@@ -42,6 +44,7 @@ This project demonstrates a wide range of intermediate to advanced Excel skills:
 
 1.  **Data Preparation:** The raw dataset was cleaned, formatted, and converted into a named Excel Table.
 2.  **Backend Creation:** A dedicated `PivotTables` sheet was created to serve as the "engine" for the dashboard. Four separate PivotTables were built to summarize the data from different perspectives.
+   ![PivotTable Backend](pivot_sheet.png)
 3.  **Chart Construction:** Each required chart was built on a `Chart_Examples` sheet, ensuring each was correctly configured and formatted before being moved to the dashboard. This included troubleshooting common issues like data grouping and chart type limitations.
 4.  **Dashboard Assembly:** The final, polished charts were moved and arranged onto the main `Dashboard` sheet.
 5.  **Interactivity Implementation:** Slicers for "Region" and "Product Category" were added and connected to all PivotTables, making the dashboard fully interactive.
